@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 title: Twenty Blog
 email: your-email@domain.com
@@ -12,3 +13,6 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 9ddf446d4ecb0537473a8820786fbbef8ce1d755
