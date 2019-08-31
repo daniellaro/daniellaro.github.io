@@ -869,6 +869,23 @@
 				margin: 2em 0 0 0;
 			}
 
+
+			#banner .avatar {
+				position: relative;
+				display: block;
+				margin-bottom: 1.5em;
+			}
+
+			#banner .avatar img {
+				display: block;
+				margin: 0 auto;
+				border-radius: 100%;
+				box-shadow: 0 0 0 1.5em #ffffff;
+			}
+
+
+
+
 /* Main */
 
 	#main {
